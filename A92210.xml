@@ -1,0 +1,965 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact accompt of the receipts, and disbursments expended by the Committee of Safety, upon the emergent occasions of the nation· Delivered in by M. R. secretary to the said committee, to prevent false reports, and prejudicate censures.</title>
+            <author>M. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92210</idno>
+            <idno type="STC">Wing R44</idno>
+            <idno type="STC">Thomason E1079_3*</idno>
+            <idno type="STC">ESTC R207827</idno>
+            <idno type="EEBO-CITATION">99866855</idno>
+            <idno type="PROQUEST">99866855</idno>
+            <idno type="VID">119143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119143)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1079[3*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact accompt of the receipts, and disbursments expended by the Committee of Safety, upon the emergent occasions of the nation· Delivered in by M. R. secretary to the said committee, to prevent false reports, and prejudicate censures.</title>
+                  <author>M. R.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Jer. Hanzen,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A political satire.</note>
+                  <note>Annotation on Thomason copy: "Feb. 11. 1659"; 0 in imprint date crossed out.</note>
+                  <note>Reproductions 5xx of the originals in the Thomason Tract and Burney Collections of the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119143:1" rendition="simple:additions"/>
+            <p>AN EXACT ACCOMPT OF THE RECEIPTS, AND DISBURSMENTS Expended by the Committee of Safety, Upon the Emergent Occaſions of the NATION.</p>
+            <p>Delivered in by M. R. Secretary to the ſaid Com<g ref="char:EOLhyphen"/>mittee, to prevent falſe Reports, and prejudicate Cenſures.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jer. Hanzen.</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:119143:2"/>
+            <pb n="3" facs="tcp:119143:2"/>
+            <head>AN EXACT ACCOMPT OF THE RECEIPTS, &amp;c.</head>
+            <opener>
+               <salute>May it pleaſe your Honors,</salute>
+            </opener>
+            <p>I Am come here according to Order, to preſent unto yee, an ex<g ref="char:EOLhyphen"/>act Accompt of what Money was disburs'd by the Committee of Safety in the ſhort time of their ſitting. Truly I would fain juſtifie my ſelf and them who were my Maſters, for I deſire to ap<g ref="char:EOLhyphen"/>peare an honeſt man outwardly what ere I am inwardly. I know and am not ignorant what a good thing 'tis to be a good Steward, for I know you love good Stewards, and have thrown out the <hi>Family of the Stewards,</hi> becauſe you thought them not to be good <hi>Stewards;</hi> I make no queſtion but your Honors will find this to be a juſt &amp; true Accompt; for I learnt Subſtraction, Multiplication, and Addition while I was at <hi>Drury</hi> Houſe, and I thank God I attain'd alſo to ſome ſmall knowledge of the <hi>Golden Rule;</hi> I could have wiſh'd with all my heart it had bin more, yet I intended to have perfected my know<g ref="char:EOLhyphen"/>ledge in the Committee of Safety, had my time not bin ſo ſhort; However I intreat your Honors to conſider, that the Committee of Safety could be at no ſmall charges, in regard of the Expences that waits upon Authority. We had many Mouths to feed, many wan<g ref="char:EOLhyphen"/>ting Brethren that were in charity to be relieved; and <hi>Charity,</hi> your Honors know, how laudable a thing it is. All men love Money, all men ſeek for it, and are never well till they have it; And would ye have the Committee of Safety more then men? Truly I can aſſure your Honors they were but men at their higheſt, and now they are God knows what; 'tis thought ſome of them now wiſh they were women: 'Tis true, <hi>Changes</hi> have been very advantagious to a great many men in theſe times, but there are no changes now can doe them good, but ſuch <hi>Metamorphoſes</hi> as the Poets ſpeak of. I my ſelf wiſh I had been chang'd into an Elder tree, to have been cut out into Pot-guns, when I firſt finger'd a peny of their Mony. Truly I think the curſe of <hi>Symon Magus</hi> fell upon them, for no ſooner
+<pb n="4" facs="tcp:119143:3"/>was their Money ſpent, but they were forced to run away; ſo that I may ſay of them, that They and their Money periſh'd together. How it periſh'd, I hope your Honors will hereby receive full ſatiſ<g ref="char:EOLhyphen"/>fa<g ref="char:EOLhyphen"/>ction; I would have your Honors contented with this Accompt which I have here brought, but I aſſure your Honors if you will not, I can bring you no other. I have one word more by way of Petiti<g ref="char:EOLhyphen"/>on, That your Honors would be pleaſed to conſider my condition, and if I have laid out any money out of my purſe (as you may here<g ref="char:EOLhyphen"/>by perceive that I have) that you will be pleaſed to reſtore it me a<g ref="char:EOLhyphen"/>gain, and give me ten times as much more. 'Tis a ſad thing to be poor and needy. <q rend="margQuotes">O Hunger, hunger, ſaid the famous Champion of <hi>England,</hi> more ſharp then the ſtroke of Death, thou art the extremeſt puniſhment that ever man endured, if I were now king of <hi>Armenia,</hi> and chief Potentate of <hi>Aſia,</hi> yet would I give my Diadem, my Scepter, with all my Provinces for one ſliver of brown Bread.</q> I ſpeak this to ſhow you how much it concerns every man, and as well my ſelf as any body elſe, to prevent poverty, which makes me urge my petition to yee once again, That you would not onely not take away what I have got, but rather, as I ſaid but juſt now, give me ten times more. May it pleaſe your Honors, I have done, the Lord bleſs you, and encline your hearts to pity and com<g ref="char:EOLhyphen"/>paſſion.</p>
+            <p>Received out of the Treaſuries of the Excize, Cuſtoms, and the Exchequer — 430000 <abbr>l.</abbr>
+            </p>
+            <p>Disburſed as followeth.</p>
+            <p>
+               <table>
+                  <head>The ACCOMPT.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <abbr>l.</abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>s.</abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>d.</abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>IMprimis,</hi> For three and twenty long Cloaks, at ſeven pound ten ſhillings <hi>per</hi> Cloak, to cover the Com<g ref="char:EOLhyphen"/>mittee of Safety's Knavery,</cell>
+                     <cell>243</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for ſix dozen of large fine Holland Handker<g ref="char:EOLhyphen"/>chiefs, with great French Buttons, for the Lord <hi>Fleet<g ref="char:EOLhyphen"/>wood,</hi> to wipe away the Teares from his Excellencies Cheeks, at twenty ſhillings <hi>per</hi> Handkerchief,</cell>
+                     <cell>72</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for four New Perriwigs for his Lordſhip, at ſix pound a Perriwig, together with a dozen pound of Amber Powder, with four wodden Blocks, and half a dozen of Tortois ſhell Combs,</cell>
+                     <cell>41</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a Silver Inkhorn, and ten gilt Paper-books cover'd with green Pluſh and Turky leather, for his Lady to write in at Church,</cell>
+                     <cell>07</cell>
+                     <cell>03</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid his young Daughters Muſick-Maſter, and Dancing Maſter, for fifteen Moneths Arrears, due at the Interruption of the Parliament,</cell>
+                     <cell>59</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <pb n="5" facs="tcp:119143:3"/>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for twelve new Braſs Nails that were wanting in his Coach, and removing all his Excellencies horſes ſhooes, and blooding his Pad Nag,</cell>
+                     <cell>160</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for four rich Mantles for his Lady, two lac'd, and two embroidered, and a brave New Gown, made to congratulate her Husbands new Honor,</cell>
+                     <cell>270</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> beſtowed by her Order, upon the Journey-men Taylors, and given to him that brought home and try<g ref="char:EOLhyphen"/>ed on her ſaid Gown, ſeven Pieces in gold,</cell>
+                     <cell>07</cell>
+                     <cell>14</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for changing an old faſhion Caudle-cup, and three ſilver Skillets that were melted,</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for the Uſe of his Excellencies Roomes, his Chairs and Cuſhions; as alſo for Candles and Scotch-Coales, while the Committee of Officers ſate in his Houſe,</cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for an innumerable company of Pectoral Rolls, and Lozenges, to dry up his Excellencies Rheum, at two pence a piece,</cell>
+                     <cell>30</cell>
+                     <cell>02</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid the Apothecary's Bill, for Pills and Gliſt<g ref="char:EOLhyphen"/>ers for the laſt Autumn,</cell>
+                     <cell>31</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for two Rolls of Spaniſh Tobacco for Colo<g ref="char:EOLhyphen"/>nel <hi>Sydenham,</hi> at twenty ſhillings <hi>per</hi> pound, accord<g ref="char:EOLhyphen"/>ing to the Protectors rate, and five black Pots to warm Ale in, at twelve pence a piece, together with ten groce of glaz'd Pipes, at nine ſhillings the groce,</cell>
+                     <cell>45</cell>
+                     <cell>13</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for two gilt Horn-bookes for his great ſon, at two ſhillings ſix pence a piece,</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> beſtowed upon the Lord <hi>Lambert</hi> five thou<g ref="char:EOLhyphen"/>ſand pounds, to buy him the ſeveral Pictures of <hi>Moſes, Mahomet, Romulus</hi> and <hi>Rhemus, Caeſar,</hi> and all thoſe that were the firſt Founders of large Empires and King<g ref="char:EOLhyphen"/>doms,</cell>
+                     <cell>5000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> preſented to the Lord <hi>Lambert</hi> the Root of a Tulip, and a certain Eaſt-Indian Flower with a hard Name, which for their rarity, coſt two hundred and fifty pound,</cell>
+                     <cell>250</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid the ſaid Lord, who is now no Lord, ſix thouſand pound, to be ſpent the Lord knows how, in a certaine Northern Expedition, which came to no<g ref="char:EOLhyphen"/>thing,</cell>
+                     <cell>6000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> laid out for ſeven rich New Gowns, beſpoke at <hi>Paris</hi> for the Lady <hi>Lambert,</hi> to be worn ſeven ſeve<g ref="char:EOLhyphen"/>ral dayes one after another, at her Husbands coming to the Crowns, every Gown valued at ſixty pound, one with another,</cell>
+                     <cell>480</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Pins and Gloves for the ſaid Lady,</cell>
+                     <cell>83</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <pb n="6" facs="tcp:119143:4"/>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for ſeven New Whisks, lac'd with Flanders Lace of the laſt Edition, each Whisk valued at fifty pound,</cell>
+                     <cell>350</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for four hundred Packs of French Cards with Pictures, to play at <hi>Beſt</hi> and <hi>Picquet</hi> withal,</cell>
+                     <cell>200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a new pair of Spurs for Colonel <hi>Clark,</hi> and a new Whip with a ſilver Handle, and a Coral Whiſtle at the end of it, to call the Oſtler,</cell>
+                     <cell>003</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Vamping the ſaid Colonels Riding-boots, and for new Spur-leathers,</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> laid out for Wedding Clothes for the Lord <hi>Lambert's</hi> Daughter,</cell>
+                     <cell>1150</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given to the Lord <hi>Wareſton</hi> one thouſand pounds to buy him a Houſe and Land here, becauſe his Lord<g ref="char:EOLhyphen"/>ſhip had expreſſed a very great diſlike of his owne Countrey, and was then reſolved never to have gone thither any more,</cell>
+                     <cell>1000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given to the Lord <hi>Strickland</hi> for his very ordi<g ref="char:EOLhyphen"/>nary Service, a dozen of gilt Nutmegs, at ſix pence three farthings a piece,</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given to Colonel <hi>Berry</hi> five hundred pound, to buy him a three-handed ſword,</cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given to Lord Mayor <hi>Tichborn</hi> three thouſand pounds, to buy him a Hobby-horſe and a clear Con<g ref="char:EOLhyphen"/>ſcience,</cell>
+                     <cell>3000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid to a Spectacle-maker, for a Spectacle with one glaſs for Col: <hi>Hewſon,</hi> four hundred pound,</cell>
+                     <cell>400</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid for three great Saddles for the Lord <hi>Law<g ref="char:EOLhyphen"/>rence</hi>'s ſon, and for Provender for his lofty Steeds, ever ſince the Protectors Political death,</cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> reimburſed to the ſaid Lord <hi>Lawrence,</hi> ſeveral Sums of Money which his eldeſt Son had ſquandered away upon Poets and Dedications to his Ingenuity, to the value of five hundred pound more,</cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid Sir <hi>Harry Vane</hi> to defray the extraordinary charges of his fruitleſs Voyage into the <hi>Hope,</hi>
+                     </cell>
+                     <cell>800</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given the Gunner for four Salutes as he went off the Admiral, ten pieces in gold,</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid the Scrivener for writing out the League made betwixt him and the Lord <hi>Lambert,</hi> when they joyned their Forces together,</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a great ſharp Knife to cut his Meat, accor<g ref="char:EOLhyphen"/>ding to his ſtomach, with an Agate handle,</cell>
+                     <cell>02</cell>
+                     <cell>04</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Caudles devoured by his Lady every morn<g ref="char:EOLhyphen"/>ing, for theſe laſt three moneths,</cell>
+                     <cell>60</cell>
+                     <cell>07</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> allowed Sir <hi>Harry Vane</hi> five hundred pound, to
+<pb n="7" facs="tcp:119143:4"/>pay for the Exchange of Money which he transferred into <hi>Holland,</hi>
+                     </cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> allowed him him five hundred pound more, to buy him <hi>Fortunatus</hi>'s Cap,</cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given to Colonel <hi>Cobbet</hi> three hundred pound, to buy him <hi>Mambrine's</hi> Helmet, and the Sword which St. <hi>George</hi> pull'd out of the Rock,</cell>
+                     <cell>400</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> disburſed to the Lady <hi>Thomas,</hi> at the requeſt of her Father in law, four hundred and ſeventy pounds, to make her husband a new pair of Horns, his old ones being now worn our,</cell>
+                     <cell>470</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for new Chairs for the Council Chamber, and for bruſhing the Hangings, and Airing the Room, for fear of any Infection that the Lord <hi>Lamberts</hi> enemies might leave behinde them,</cell>
+                     <cell>201</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Switches which the Lord <hi>Lambert</hi> wore out when he interrupted the Parliament, and for making clean his Boots the next day,</cell>
+                     <cell>43</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> beſtowed upon Mr. <hi>Holland</hi> nine hundred pound to buy him ſix New Iron cheſts, to lock up his Mo<g ref="char:EOLhyphen"/>ney in,</cell>
+                     <cell>900</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid the Herald for a New Coat of Arms for Major General <hi>Diſborough,</hi> with this Motto, <hi>God ſpeed the Plough,</hi> fifty eight pound,</cell>
+                     <cell>58</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid for new Matting one of his Bed-chambers, ſixteen pound, two ſhillings, two pence,</cell>
+                     <cell>16</cell>
+                     <cell>02</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid the Lord <hi>Whitlock</hi> one hundred pound for his great <hi>Swediſh Cat,</hi> that it might be kept in the Tower as one of the Lord <hi>Lamberts</hi> Chattels, for the publick benefit and ſatisfaction of the Nation,</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid the fellow that cut the Lord <hi>Lamberts</hi> corns, the day before he went out of Town, five pound in gold,</cell>
+                     <cell>05</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a Tinder box for the Lord <hi>Lambert,</hi> with a thouſand Card-matches to light his Candles with, when he wak'd in the night,</cell>
+                     <cell>16</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for half a ſcore New <hi>Laſts</hi> for the Committee, to ſet their conſciences upon when they began to pinch 'em,</cell>
+                     <cell>30</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> taken by Mr. <hi>Cor. Holland</hi> five thouſand pound, to ſatisfie himſelf for an old Debt owing him by King <hi>James,</hi> paid no leſs then twice before,</cell>
+                     <cell>5000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> taken by the Lord <hi>Whitlock,</hi> to ſatisfie himſelf for his Embaſſy into <hi>Swedeland,</hi>
+                     </cell>
+                     <cell>20000</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given to Mr. <hi>Thankful Owen,</hi> a ſmall Collop to etch out his fortunes,</cell>
+                     <cell>400</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <pb n="8" facs="tcp:119143:5"/>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given to Mr. <hi>Brandrith</hi> a thouſand pound, be<g ref="char:EOLhyphen"/>cauſe he had never any thing given him before,</cell>
+                     <cell>1000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> preſented by the whole Committee to the La<g ref="char:EOLhyphen"/>dy <hi>Lambert,</hi> a Tooth-pick Caſe of Gold, beſet all over with Diamonds, Rubies, and Emeraulds, coſt fifteen hundred pound,</cell>
+                     <cell>1500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a bundle of Rods, and Utine to ſoak them in, which Rods were prepared for thoſe that voted the Lord <hi>Lambert</hi> out of Commiſſion,</cell>
+                     <cell>75</cell>
+                     <cell>10</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given to Cardinal <hi>Mazarine</hi> fifty thouſand pounds, to ſhew him there was Money ſtirring then in <hi>England,</hi> as well as in the Protectors time,</cell>
+                     <cell>50000</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> beſtowed upon Colonel <hi>Salmon</hi> five hundred pound, to buy him Borage-water, and Syrrop of Gil<g ref="char:EOLhyphen"/>lyflowers, to keep up his heart, by reaſon of his conti<g ref="char:EOLhyphen"/>nual ſighing,</cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> laid out of my own purſe two hundred and fifty pound, for ſeveral Colations and Dinners both in Fiſhſtreet, and elſewhere,</cell>
+                     <cell>250</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Bottles of Wine ſpent in my own houſe, one hundred pound,</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Banquetting-ſtuff, and Sweet-meats of all ſorts, for my Wife to entertain Viſitants; and for ſix new Flander-lac'd Smocks,</cell>
+                     <cell>300</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a Neck-lace of Oriental Pearl, and three Diamond-rings, and a ſilver Warming-pan,</cell>
+                     <cell>400</cell>
+                     <cell>10</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a New great Powdering-tub, and a Sute of Tapeſtry hangings,</cell>
+                     <cell>61</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> laid out one hundred thouſand pound, which was carried down to the banks of the River <hi>Tweed</hi> by way of Temptation, which being utterly refuſed, was afterwards diſtributed into private Quarters, which is all the accompt I am able to give of it,</cell>
+                     <cell>100000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid the Under-clerks of the Committee, ſe<g ref="char:EOLhyphen"/>veral ſums of Money ſpent in Ale-houſes and Bawdy<g ref="char:EOLhyphen"/>houſes, according to their ſeveral accompts, amounting in all to one hundred eighty three pound,</cell>
+                     <cell>183</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid <hi>Politicus</hi> five hundred and five pound, to make good ſeveral ſums of Money by him loſt in Bowl<g ref="char:EOLhyphen"/>ing Greens, and at the Comb-makers Ordinary,</cell>
+                     <cell>505</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Capers, Sampire, and Olives, and ten Buſhels of Kentiſh Pippins for Lambs-wooll, being all very ſcarce commodities in the North, to furniſh the Lord <hi>Lamberts</hi> Table,</cell>
+                     <cell>700</cell>
+                     <cell>06</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a hundred bottoms of Packthred, but for what uſe I know not,</cell>
+                     <cell>103</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <pb n="9" facs="tcp:119143:5"/>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Ink, Paper, Pens, Wax, and blew Duſt,</cell>
+                     <cell>1000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a hundred thouſand pound of great Candles, and given as a Gratuity to the Chandlers boy for bring<g ref="char:EOLhyphen"/>ing them in,</cell>
+                     <cell>2500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid to Linck-boyes for lighting the Commiſ<g ref="char:EOLhyphen"/>ſioners and Council of Officers home to their Lodg<g ref="char:EOLhyphen"/>ings,</cell>
+                     <cell>94</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid unto the Centinels, for piſſing near the Guard,</cell>
+                     <cell>057</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Eaſt-India Night-Gowns for the Commiſ<g ref="char:EOLhyphen"/>ſioners, and the reſt of the Officers, and for Night-caps for them,</cell>
+                     <cell>233</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid the Chaplains for three Faſt-days, and for Pomecitron to keep the Commiſſioners empty ſto<g ref="char:EOLhyphen"/>machs from wambling,</cell>
+                     <cell>789</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for twelve pair of cut-finger'd Gloves for my ſelf to write in,</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for <hi>Coffee</hi> which the Commiſſioners drank eve<g ref="char:EOLhyphen"/>ry morning, eſpecially when they had got a Doſe over night,</cell>
+                     <cell>340</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> towards the repairing the Ruines of <hi>Trey,</hi>
+                     </cell>
+                     <cell>20000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Whips, Tops, and Joynted-babies, for the Commiſſioners younger children,</cell>
+                     <cell>89</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for writing out the Inſtrument of Government ſeven times over,</cell>
+                     <cell>050</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> allowed Colonel <hi>Hewſon,</hi> for his charges at the Seſſions-houſe,</cell>
+                     <cell>495</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for three blew Beans in a blew Bladder,</cell>
+                     <cell>93</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid to <hi>Lilly</hi> for caſting the Nativities of the Commiſſioners children,</cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given to Sir <hi>Harry Vane</hi> three thouſand pound, to raiſe a Regiment of Anabaptiſts,</cell>
+                     <cell>3000</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> beſtowed by his appointment upon <hi>Inciters, Pro<g ref="char:EOLhyphen"/>moters,</hi> and <hi>Inſtigators,</hi>
+                     </cell>
+                     <cell>1000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given as a preſent to the Pope twenty thouſand pound by the ſaid Sir <hi>Harry,</hi> for ſeveral and ſundry courteſies done him by his Holineſs,</cell>
+                     <cell>20000</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a hundred new cords, which were to be us'd when the Lord <hi>Lambert</hi> came to Town; and alſo for new ſetting the Axe in the Tower,</cell>
+                     <cell>204</cell>
+                     <cell>05</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a very ſtrong Padlock to be hung upon the Parliament Houſe door, and a ſilver Key, which was to be delivered to St. <hi>Peter,</hi> to be by him kept till the Lord <hi>Lambert</hi> ſhould call to him for it,</cell>
+                     <cell>110</cell>
+                     <cell>12</cell>
+                     <cell>08</cell>
+                  </row>
+                  <pb n="10" facs="tcp:119143:6"/>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given the Porter of <hi>Wallingford</hi>-Houſe, for letting the Officers in and out, and ſitting up all houres of the night,</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for drawing the Mortgage of my Lord <hi>Lam<g ref="char:EOLhyphen"/>berts</hi> Houſe and Lands, and for Fees to the <hi>Coun<g ref="char:EOLhyphen"/>cil,</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a New Riding-hat for his Lordſhip, be<g ref="char:EOLhyphen"/>cauſe he was told that that which he wore in the day of his wrath, made him look like a <hi>Finsbury</hi> Archer,</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> beſtowed in New years gifts one upon another, every one giving out of the publick ſtock,</cell>
+                     <cell>7000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a Paddle ſtaff and a brown Bill for Major General <hi>Disborough,</hi> when his Worſhip pleaſes to walk his grounds,</cell>
+                     <cell>07</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid to M. <hi>Saloway</hi> for Raiſons, Corrans, and Pruens, at exceſſive rates, for the keeping of Chriſt<g ref="char:EOLhyphen"/>mas,</cell>
+                     <cell>2000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> laid out for Turbants, Shaſhes, and Scimitars for the Lord <hi>Lambert,</hi> and the reſt of his Adherents, nine thouſand five hundred fifty ſix pound, which made men thinke they would have turn'd Turkes, had they come into power,</cell>
+                     <cell>9556</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> to the three great Officers in the Common<g ref="char:EOLhyphen"/>wealth of <hi>Oceana,</hi> the <hi>Polemarch,</hi> the <hi>Strategus,</hi> and my Lord <hi>Epimonus,</hi> ten thouſand pound, to buy 'um Figs, Melons, and yellow hats,</cell>
+                     <cell>10000</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given in charity to the State of <hi>Venice,</hi> who are the Bulwark of <hi>Chriſtendom,</hi>
+                     </cell>
+                     <cell>12000</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> laid out upon a great Hog-trough to be ſet up in <hi>Rumford,</hi> as a Trophy of their publique Magnifi<g ref="char:EOLhyphen"/>cence,</cell>
+                     <cell>3000</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> ſent into <hi>Lapland</hi> for the retaining of a certain Necromancer, who was to aſſiſt them in the carrying on their great Work,</cell>
+                     <cell>5000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for black Wooll and Civet, to ſtop the ears of the Committee and Council of Officers from hearing any thing that might tend to their own, or the good of the Nation,</cell>
+                     <cell>50</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> laid out for a New Scepter for his intended Highneſs the Lord <hi>Lambert,</hi>
+                     </cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for Granado's to fire the City,</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid for a pound of May butter, made of a Cows Milk that fed upon <hi>Hermon</hi> Hill, given to the Lady <hi>Lawrence</hi> for pious uſes,</cell>
+                     <cell>87</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <pb n="11" facs="tcp:119143:6"/>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> given to a Projector, toward a certain Deſign which he had to bring over an inchanted Caſtle, to ſe<g ref="char:EOLhyphen"/>cure the Lord <hi>Lambert</hi>'s foes in,</cell>
+                     <cell>5000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid to another Projector, toward a Deſign which he had to looke in the middle of the Weſtern Ocean, for a great Spaniſh Gallioon that was ſunk with the weight of the Gold that ſhe carried, ſome thirty years ago,</cell>
+                     <cell>2500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a fair pair of Tables, with ſeveral bales of Dice, that thoſe Commiſſioners who cared not to trou<g ref="char:EOLhyphen"/>ble themſelves with the Affairs of the Nation, might not want ſomething to paſs the time away withal,</cell>
+                     <cell>57</cell>
+                     <cell>50</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for nine Mil-ſtones for the Lord <hi>Lambert</hi>'s nine Worthies to wear about their necks in ſtead of <hi>Georges,</hi> and for blew Ribbans to hang them in,</cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for one of the Emperor of <hi>Ruſsia</hi>'s caſt Furre-Gowns, for the Laird <hi>Wareſton</hi> to wear while he was Preſident of the Committee,</cell>
+                     <cell>754</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a Shooe-makers Meaſure to be provided by Colond <hi>Hewſon,</hi> for the Commiſſioners to take the length of the peoples feet,</cell>
+                     <cell>023</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for a Tun of Sallet-oyl, to make their Tongues glib, when they were to talk with the Aldermen and Common council,</cell>
+                     <cell>233</cell>
+                     <cell>12</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid the Lord <hi>Fleetwood</hi> for Scraps given to the Beggars at his door,</cell>
+                     <cell>300</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> for twenty pair of Caſtanets for the Ladies to dance Serraba<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ds at Sir <hi>Harry Vanes</hi> ſons wedding,</cell>
+                     <cell>050</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid to the Army, Never a farthing.</cell>
+                     <cell>000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> paid to the Navy, as much.</cell>
+                     <cell>000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Summa totalis,</cell>
+                     <cell role="total" cols="3">430000 <abbr>l.</abbr>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Thus your Honors may ſee how vainly and profuſely we have ſquandered away a very conſiderable Sum, which your Honors had carefully laid up for better and more important uſes. I ſhall onely ſay this in the behalf of my Maſters, that if you pleaſe not to be rigorous with them, and to call them to any further Accompt, they will take it not a little courteouſly, and be bound to pray for your Honors, though if your Honors think <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to do otherwiſe, I do be<g ref="char:EOLhyphen"/>lieve the whole Nation in general will be more indebted to your Juſtice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
